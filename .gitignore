@@ -1,0 +1,9 @@
+# Ignore the large model files
+*.onnx
+*.onnx.data
+
+# Ignore Python cache and environments
+__pycache__/
+.env
+venv/
+.DS_Store
